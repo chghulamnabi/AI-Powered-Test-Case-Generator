@@ -1,0 +1,5 @@
+{
+  "name": "QA Test Case Generator",
+  "description": "An AI-powered application that analyzes a homepage URL and automatically generates a comprehensive set of QA test cases, organized by functional category.",
+  "requestFramePermissions": []
+}
